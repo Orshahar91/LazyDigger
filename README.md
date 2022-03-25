@@ -29,3 +29,5 @@ In order to advance to the next stage and finish the game, the player must colle
 
 
 
+![LazyDigger](/Images/LazyDigger.PNG)
+
